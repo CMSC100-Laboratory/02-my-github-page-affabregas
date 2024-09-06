@@ -18,3 +18,6 @@
 <h3 align="left">Takeaway</h3>
 <p align="left"> In this exercise I have realized that it is very time consuming to create simple layouts in HTML and CSS. It is because of how lengthy the tags are, such as needing to type the entire closing tag again, as opposed to other languages where elements are depicted as Element() instead of &lt;Element&gt;&lt;/Element&gt;. Having verbose code also makes it harder to read, so I had to rely on documentation and indentations to keep track of what each section of the code does.
 </p>
+
+<h3 align="left">Resources</h3>
+<p align="left"> Background Image is "Snow Covered Mountain Under Cloudy Sky" by Niklas Jeromin from pexels.com (Free to Use) </p>
